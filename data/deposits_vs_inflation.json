@@ -1,0 +1,91 @@
+{
+  "title": "Вклады vs Инфляция",
+  "subtitle": "Ваши деньги растут или тают?",
+  "unit": "%",
+  "description": "Сравнение доходности вкладов и инфляции. Если зеленая линия выше красной — ваши деньги приносят реальный доход.",
+  "data": [
+    {
+      "month": "Янв 2024",
+      "deposits": 11.5,
+      "inflation": 7.4,
+      "real_rate": 4.1
+    },
+    {
+      "month": "Фев 2024",
+      "deposits": 11.8,
+      "inflation": 7.7,
+      "real_rate": 4.1
+    },
+    {
+      "month": "Мар 2024",
+      "deposits": 12.0,
+      "inflation": 7.7,
+      "real_rate": 4.3
+    },
+    {
+      "month": "Апр 2024",
+      "deposits": 12.5,
+      "inflation": 7.8,
+      "real_rate": 4.7
+    },
+    {
+      "month": "Май 2024",
+      "deposits": 13.0,
+      "inflation": 8.3,
+      "real_rate": 4.7
+    },
+    {
+      "month": "Июн 2024",
+      "deposits": 13.5,
+      "inflation": 8.6,
+      "real_rate": 4.9
+    },
+    {
+      "month": "Июл 2024",
+      "deposits": 14.0,
+      "inflation": 9.1,
+      "real_rate": 4.9
+    },
+    {
+      "month": "Авг 2024",
+      "deposits": 14.2,
+      "inflation": 9.0,
+      "real_rate": 5.2
+    },
+    {
+      "month": "Сен 2024",
+      "deposits": 14.5,
+      "inflation": 8.6,
+      "real_rate": 5.9
+    },
+    {
+      "month": "Окт 2024",
+      "deposits": 14.8,
+      "inflation": 8.5,
+      "real_rate": 6.3
+    },
+    {
+      "month": "Ноя 2024",
+      "deposits": 15.0,
+      "inflation": 8.9,
+      "real_rate": 6.1
+    },
+    {
+      "month": "Дек 2024",
+      "deposits": 15.2,
+      "inflation": 9.5,
+      "real_rate": 5.7
+    },
+    {
+      "month": "Янв 2025",
+      "deposits": 14.0,
+      "inflation": 9.5,
+      "real_rate": 4.5
+    }
+  ],
+  "insight": {
+    "current_real_rate": 4.5,
+    "status": "positive",
+    "message": "Вклады приносят реальный доход: +4.5% годовых"
+  }
+}
