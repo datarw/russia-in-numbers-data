@@ -1,3 +1,21 @@
 {
-  "data": []
+  "meta": {
+    "updated": "2026-03-10",
+    "source": "ЦБ РФ / Росстат",
+    "target_rate": 4.0
+  },
+  "series": [
+    {
+      "date": "2024-01-01",
+      "cpi_yoy": 7.44,
+      "inflation_observed": 14.2,
+      "inflation_expected": 12.7
+    },
+    {
+      "date": "2024-02-01",
+      "cpi_yoy": 7.69,
+      "inflation_observed": 14.8,
+      "inflation_expected": 12.5
+    }
+  ]
 }
